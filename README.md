@@ -2,23 +2,27 @@
 
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-A terminal-based Pong game built with **C++**, featuring real-time collision detection, ball physics, and escalating difficulty.
+A terminal-based Pong game built with **C++**, featuring real-time collision detection, ball physics, dynamic scoring, and escalating difficulty.
 
 ---
 
 ## 🚀 Features
 
 ### 🎮 Interactive Gameplay
-- Control paddles using keyboard input
+- Control paddle using keyboard input
 - Smooth paddle movement and responsive controls
 
 ### ⚙️ Real-Time Physics
 - Ball bounces accurately off walls and paddle
 - Continuous collision detection ensures fluid gameplay
 
+### 📈 Real-Time Scoring
+- Score increases each time the ball hits the paddle
+- Score is displayed and updated live as the game progresses
+
 ### 🔺 Dynamic Difficulty
 - Paddle size gradually decreases
-- Additional balls spawn as score increases
+- Additional balls spawn as the score increases
 
 ---
 
