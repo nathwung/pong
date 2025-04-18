@@ -13,7 +13,7 @@ A terminal-based Pong game built with **C++**, featuring real-time collision det
 - Smooth paddle movement and responsive controls
 
 ### ⚙️ Real-Time Physics
-- Ball bounces accurately off walls and paddles
+- Ball bounces accurately off walls and paddle
 - Continuous collision detection ensures fluid gameplay
 
 ### 🔺 Dynamic Difficulty
