@@ -17,7 +17,7 @@ A terminal-based Pong game built with **C++**, featuring real-time collision det
 - Continuous collision detection ensures fluid gameplay
 
 ### 📈 Real-Time Scoring
-- Score increases each time the ball hits the paddle
+- Score increases each time a ball hits the paddle
 - Score is displayed and updated live as the game progresses
 
 ### 🔺 Dynamic Difficulty
