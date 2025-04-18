@@ -2,7 +2,7 @@
 
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-A terminal-based Pong game built with **C++**, featuring real-time collision detection, ball physics, dynamic scoring, and escalating difficulty.
+A terminal-based pong game built with **C++**, featuring real-time collision detection, ball physics, dynamic scoring, and escalating difficulty.
 
 ---
 
